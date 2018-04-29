@@ -1,0 +1,6 @@
+framework module Pods_Minute_techUITests {
+  umbrella header "Pods-Minute.techUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

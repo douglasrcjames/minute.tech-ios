@@ -1,0 +1,6 @@
+framework module Pods_Minute_technician {
+  umbrella header "Pods-Minute.technician-umbrella.h"
+
+  export *
+  module * { export * }
+}
